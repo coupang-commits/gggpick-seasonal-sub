@@ -1,22 +1,22 @@
 {
     "domain": "seasonal.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "명절 선물세트",
+        "크리스마스",
+        "여름 휴가템"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang seasonal items."
+        "명절 선물세트": {
+            "topic": "Holiday gift sets, spam sets, premium fruit sets.",
+            "role": "Holiday gift expert."
         },
-        "수유/이유식": {
-            "topic": "seasonal bottle sterilizers, seasonal food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "크리스마스": {
+            "topic": "Christmas trees, ornaments, holiday lights.",
+            "role": "Christmas decoration curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "여름 휴가템": {
+            "topic": "Beach towels, travel pouches, waterproof bags.",
+            "role": "Vacation essentials reviewer."
         }
     }
 }
