@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seasonal.gggpick.com/sitemap.xml
